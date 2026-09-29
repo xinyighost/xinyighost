@@ -11,4 +11,4 @@
 ⌗ ┆ Check out my strawpage for more infos about me ⋆˚࿔
 #
 
-![banner2]([https://github.com/xinyighost/Banner/blob/main/grayscale-image.png?raw=true](https://media.discordapp.net/attachments/1541185559265812560/1554601748457332756/grayscale-image.png?backend=b2&ex=6abd7b33&is=6abc29b3&hm=b4fdaa09b3f1169ad12ad4f19e63a6d7ecbbfbb33ede5b49ca600b29adcd12c9&=&format=webp&quality=lossless))
+![banner2](https://media.discordapp.net/attachments/1541185559265812560/1554601748457332756/grayscale-image.png?backend=b2&ex=6abd7b33&is=6abc29b3&hm=b4fdaa09b3f1169ad12ad4f19e63a6d7ecbbfbb33ede5b49ca600b29adcd12c9&=&format=webp&quality=lossless)
