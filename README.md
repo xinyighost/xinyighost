@@ -1,4 +1,4 @@
-# ![banner1]()
+# ![banner1](https://github.com/xinyighost/xinyighost/blob/main/vodybanner2.png?raw=true)
 
 ‧₊ ♪˚⊹ Always playing games and listening to music 𓏵
 
