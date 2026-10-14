@@ -1,4 +1,4 @@
-# ![banner1](https://media.discordapp.net/attachments/1541185559265812560/1554590957834473502/Sans_titre_149_20260929222850.png?backend=b2&ex=6abd7127&is=6abc1fa7&hm=c2137c3492afb098ecee91a45d87b3a8c34c2149fd9cda1038c2ba401a6974b8&=&format=webp&quality=lossless)
+# ![banner1]()
 
 ‧₊ ♪˚⊹ Always playing games and listening to music 𓏵
 
@@ -11,4 +11,4 @@
 ⌗ ┆ Check out my strawpage for more infos about me ⋆˚࿔
 #
 
-![banner2](https://media.discordapp.net/attachments/1541185559265812560/1554601748457332756/grayscale-image.png?backend=b2&ex=6abd7b33&is=6abc29b3&hm=b4fdaa09b3f1169ad12ad4f19e63a6d7ecbbfbb33ede5b49ca600b29adcd12c9&=&format=webp&quality=lossless)
+![banner2](https://github.com/xinyighost/xinyighost/blob/main/vodyabanner4.png?raw=true)
